@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-<a href="https://github.com/hellohopes">
-  <img height="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hellohopes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hellohopes&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <!--
 **hellohopes/hellohopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
