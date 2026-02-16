@@ -2,8 +2,8 @@
 
 <p align="center">
 <a href="https://github.com/hellohopes">
-  <img height="50em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hellohopes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="50em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hellohopes&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hellohopes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hellohopes&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
